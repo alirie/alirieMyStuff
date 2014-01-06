@@ -1,0 +1,2 @@
+Error: Unimplemented syscall: _file_isatty
+status: 0
